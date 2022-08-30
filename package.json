@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "electron": "^20.1.0"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Andrey Khokhlov",
+  "license": "ISC",
+  "description": ""
+}
